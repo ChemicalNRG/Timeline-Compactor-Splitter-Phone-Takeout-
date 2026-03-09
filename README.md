@@ -1,6 +1,7 @@
 Timeline Compactor & Splitter (Phone Takeout)
 
 Prepare your Google Takeout exports for import into 3rd-party Timeline viewers with possible file size limits.
+
 📌 What is this?
 
 Google Timeline exports (Location History) generated via the Google Maps app on your phone can be massive and filled with redundant data. This script is a functional tool designed to process these specific JSON files. It compacts your data by removing noise and splits it into manageable, chronological parts to ensure compatibility with 3rd-party viewers that may have file size upload limits.
